@@ -50,6 +50,6 @@ for ((day=0;day<$days;day++));do
 	done;
 
 	# 日期 数量
-	echo "$dayBegin $dayTotal"
+	echo -e "$dayBegin \t$dayTotal \tlines"
 done
 
