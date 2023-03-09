@@ -3,6 +3,3 @@
 /home/leeewl/code/learn_x_through_an_example/.git
 /home/leeewl/code/mytools/.git
 /home/leeewl/code/leeewl.github.io/.git
-/home/leeewl/.cache/yay/google-chrome/.git
-/home/leeewl/.cache/yay/termite/.git
-/home/leeewl/.cache/yay/visual-studio-code-bin/.git
